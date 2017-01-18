@@ -1,0 +1,29 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Test pour : \"https://www.coursera.org/learn/server-side-development/peer/GIzeD/mongodb-and-mongoose\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerveH44/coursera-node-assignment2.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "author": "HHUNEAU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HerveH44/coursera-node-assignment2/issues"
+  },
+  "homepage": "https://github.com/HerveH44/coursera-node-assignment2#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "bluebird": "^3.4.7",
+    "mongoose": "^4.7.7",
+    "mongoose-currency": "^0.2.0"
+  }
+}
